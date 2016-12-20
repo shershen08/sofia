@@ -2,7 +2,7 @@
 An simple monitor of memory usage in real time
 ![memory](memory.png)
 
-# Install
+# Installation
 
 ```
 $ pip install -r requirements.txt
