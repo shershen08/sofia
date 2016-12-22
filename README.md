@@ -29,7 +29,7 @@ $ python monitor.py
 $ python manage.py runserver
 ```
 
-* brower
+* browser
 
 ```
 http://127.0.0.1:9009
